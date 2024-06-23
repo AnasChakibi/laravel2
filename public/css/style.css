@@ -1,0 +1,26 @@
+nav a
+{
+background-color:orange;
+
+}
+li:hover{
+    text-decoration:underline;
+}
+
+h1{
+color:green;
+
+}
+strong 
+{
+    color:red;
+}
+li
+{
+    /*
+background-color:yellow;*/
+
+width:50%;
+margin:auto;
+margin-bottom:30px;
+}
