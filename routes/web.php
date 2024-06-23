@@ -32,7 +32,9 @@ Route::get("/migrate",function(){
  
  });
 
-
+Route::get('/test',function(){
+    return "this is test";  
+});
 
 Route::get('/',function(){
     
